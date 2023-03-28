@@ -2,7 +2,7 @@
 
 ## Project Intro
 
-This is a simple REST-API based Express Project. The purpose of this project is to demonstrate my understanding of Express frameword. 
+This is a simple REST-API based Express Project. The purpose of this project is to demonstrate my understanding of Express framework. 
 
 ## Project Details
 
